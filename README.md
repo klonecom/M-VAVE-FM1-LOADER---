@@ -49,3 +49,5 @@ cc by nc
 ## Credits
 
 Built by **Soundspirate ☠** (2026)
+
+Related: try FM-1 firmwares in the browser with the free community [FM-1 Emulator](https://fm1-emulator.atst.tools/).
